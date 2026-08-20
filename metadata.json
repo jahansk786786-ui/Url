@@ -1,0 +1,7 @@
+{
+  "name": "CloudPix Image Host",
+  "description": "High performance image hosting platform with instant direct links, markdown/HTML embeds, QR code generation, social sharing, and comprehensive admin control panel with storage provider key management, security rate limits, and analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
